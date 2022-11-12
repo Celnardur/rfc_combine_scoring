@@ -97,6 +97,31 @@ def rows_into_entrys(raw_data):
             datum = raw_data[i][j]
             if datum != '':
                 keyed_entry[input_columns[j]] = datum
+        if not '1' in keyed_entry:
+            keyed_entry['1'] = ''
+        if not '2' in keyed_entry:
+            keyed_entry['2'] = ''
+        if not '3' in keyed_entry:
+            keyed_entry['3'] = ''
+        if keyed_entry['event'] == 'QB Accuracy Test':
+            if not 'center_1' in keyed_entry:
+                keyed_entry['center_1'] = ''
+            if not 'center_2' in keyed_entry:
+                keyed_entry['center_2'] = ''
+            if not 'center_3' in keyed_entry:
+                keyed_entry['center_3'] = ''
+            if not 'qb_1' in keyed_entry:
+                keyed_entry['qb_1'] = ''
+            if not 'qb_2' in keyed_entry:
+                keyed_entry['qb_2'] = ''
+            if not 'qb_3' in keyed_entry:
+                keyed_entry['qb_3'] = ''
+            if not 'wr_1' in keyed_entry:
+                keyed_entry['wr_1'] = ''
+            if not 'wr_2' in keyed_entry:
+                keyed_entry['wr_2'] = ''
+            if not 'wr_3' in keyed_entry:
+                keyed_entry['wr_3'] = ''
         keyed_entrys.append(keyed_entry)
 
     return keyed_entrys
@@ -122,8 +147,18 @@ def massage_entrys(keyed_entrys):
         elif entry['event'] == 'QB Longest Throw':
             entries.append(make_entry(entry, 'QB', max_num(entry['1'], entry['2'], entry['3'])))
 
+    to_remove = []
+    for i in range(len(entries)):
+        item = entries[i]
+        if item['event'] == 'QB Accuracy Test' and item['score'] <= 0:
+            to_remove.append(i)
+    
+    for index in range(len(to_remove)-1, -1, -1):
+        del entries[to_remove[index]]
+
     for item in entries:
         print(item)
+
     print()
     return entries
 

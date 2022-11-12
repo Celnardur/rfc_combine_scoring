@@ -1,0 +1,93 @@
+{'time': '11/10/2022 16:43:23', 'email': 'kmartine@usna.edu', 'school': 'Navy', 'event': 'Three-Cone Drill', 'pos': 'Defender', 'score': inf}
+{'time': '11/10/2022 16:44:30', 'email': 'kmartine@usna.edu', 'school': 'Navy', 'event': 'Speed Test', 'pos': 'Running Back', 'score': inf}
+{'time': '11/10/2022 16:45:53', 'email': 'kmartine@usna.edu', 'school': 'Navy', 'event': 'Shuttle Run', 'pos': 'Defender', 'score': inf}
+{'time': '11/10/2022 16:47:07', 'email': 'kmartine@usna.edu', 'school': 'Navy', 'event': 'Strength Test', 'pos': 'Center', 'score': 95.0}
+{'time': '11/10/2022 16:53:46', 'email': 'kmartine@usna.edu', 'school': 'Navy', 'event': 'QB Accuracy Test', 'pos': 'QB', 'score': 8.0}
+{'time': '11/10/2022 16:54:48', 'email': 'kmartine@usna.edu', 'school': 'Navy', 'event': 'QB Longest Throw', 'pos': 'QB', 'score': 33.5}
+{'time': '11/10/2022 16:55:24', 'email': 'kmartine@usna.edu', 'school': 'Navy', 'event': 'Longest Field Goal', 'pos': 'Kicker', 'score': -inf}
+{'time': '11/12/2022 10:10:51', 'email': 'kristina.labovic@valpo.edu', 'school': 'Valpo', 'event': 'Shuttle Run', 'pos': 'Running Back', 'score': 7.15}
+{'time': '11/12/2022 10:19:42', 'email': 'kristina.labovic@valpo.edu', 'school': 'Valpo', 'event': 'Three-Cone Drill', 'pos': 'Running Back', 'score': 8.41}
+{'time': '11/12/2022 10:21:07', 'email': 'kristina.labovic@valpo.edu', 'school': 'Valpo', 'event': 'Shuttle Run', 'pos': 'Wide Receiver', 'score': 13.12}
+{'time': '11/12/2022 10:22:15', 'email': 'kristina.labovic@valpo.edu', 'school': 'Valpo', 'event': 'Shuttle Run', 'pos': 'Defender', 'score': 13.1}
+{'time': '11/12/2022 10:25:12', 'email': 'kkristina.labovic@valpo.edu', 'school': 'Valpo', 'event': 'Three-Cone Drill', 'pos': 'Defender', 'score': 8.35}
+{'time': '11/12/2022 10:28:57', 'email': 'kristina.labovic@valpo.edu', 'school': 'Valpo', 'event': 'Three-Cone Drill', 'pos': 'Wide Receiver', 'score': 9.31}
+{'time': '11/12/2022 10:29:19', 'email': 'bendeweerd2001@gmail.com', 'school': 'Calvin', 'event': 'Three-Cone Drill', 'pos': 'Defender', 'score': 10.2}
+{'time': '11/12/2022 10:30:00', 'email': 'bendeweerd2001@gmail.com', 'school': 'Calvin', 'event': 'Shuttle Run', 'pos': 'Defender', 'score': 6.7}
+{'time': '11/12/2022 10:33:24', 'email': 'jbuettn2@nd.edu', 'school': 'Notre Dame', 'event': 'Three-Cone Drill', 'pos': 'Running Back', 'score': 11.08}
+{'time': '11/12/2022 10:34:00', 'email': 'jbuettn2@nd.edu', 'school': 'Notre Dame', 'event': 'Shuttle Run', 'pos': 'Running Back', 'score': 10.47}
+{'time': '11/12/2022 10:34:45', 'email': 'ehall9@nd.edu', 'school': 'Notre Dame', 'event': 'Three-Cone Drill', 'pos': 'Wide Receiver', 'score': 12.45}
+{'time': '11/12/2022 10:34:54', 'email': 'dpepple@nd.edu', 'school': 'Notre Dame', 'event': 'Three-Cone Drill', 'pos': 'Defender', 'score': 9.96}
+{'time': '11/12/2022 10:35:03', 'email': 'pcameron@nd.edu', 'school': 'Notre Dame', 'event': 'Shuttle Run', 'pos': 'Wide Receiver', 'score': 12.13}
+{'time': '11/12/2022 10:37:03', 'email': 'cfakhimi@nd.edu', 'school': 'Notre Dame', 'event': 'Shuttle Run', 'pos': 'Defender', 'score': 11.0}
+{'time': '11/12/2022 10:38:14', 'email': 'CFerguson0501@gmail.com', 'school': 'Trine', 'event': 'Three-Cone Drill', 'pos': 'Running Back', 'score': 21.03}
+{'time': '11/12/2022 10:39:00', 'email': 'CFerguson0501@gmail.com', 'school': 'Trine', 'event': 'Three-Cone Drill', 'pos': 'Defender', 'score': 14.63}
+{'time': '11/12/2022 10:39:07', 'email': 'g-rak.1@onu.edu', 'school': 'ONU', 'event': 'Three-Cone Drill', 'pos': 'Running Back', 'score': 11.11}
+{'time': '11/12/2022 10:39:41', 'email': 'g-rak.1@onu.edu', 'school': 'ONU', 'event': 'Three-Cone Drill', 'pos': 'Wide Receiver', 'score': 12.26}
+{'time': '11/12/2022 10:40:19', 'email': 'g-rak.1@onu.edu', 'school': 'ONU', 'event': 'Three-Cone Drill', 'pos': 'Defender', 'score': 9.7}
+{'time': '11/12/2022 10:40:21', 'email': 'CFerguson0501@gmail.com', 'school': 'Trine', 'event': 'Shuttle Run', 'pos': 'Running Back', 'score': 16.8}
+{'time': '11/12/2022 10:40:40', 'email': 'g-rak.1@onu.edu', 'school': 'ONU', 'event': 'Shuttle Run', 'pos': 'Running Back', 'score': 11.81}
+{'time': '11/12/2022 10:41:05', 'email': 'CFerguson0501@gmail.com', 'school': 'Trine', 'event': 'Shuttle Run', 'pos': 'Defender', 'score': 15.35}
+{'time': '11/12/2022 10:41:13', 'email': 'g-rak.1@onu.edu', 'school': 'ONU', 'event': 'Shuttle Run', 'pos': 'Wide Receiver', 'score': 10.48}
+{'time': '11/12/2022 10:41:38', 'email': 'g-rak.1@onu.edu', 'school': 'ONU', 'event': 'Shuttle Run', 'pos': 'Defender', 'score': 17.27}
+{'time': '11/12/2022 11:11:13', 'email': 'japierce22@my.trine.edu', 'school': 'Trine', 'event': 'Strength Test', 'pos': 'Defender', 'score': 240.0}
+{'time': '11/12/2022 11:13:34', 'email': 'kristina.labovic@valpo.edu', 'school': 'Valpo', 'event': 'Strength Test', 'pos': 'Center', 'score': 135.0}
+{'time': '11/12/2022 11:13:57', 'email': 'kkristina.labovic@valpo.edu', 'school': 'Valpo', 'event': 'Strength Test', 'pos': 'Defender', 'score': 90.0}
+{'time': '11/12/2022 11:14:05', 'email': 'pfontain@nd.edu', 'school': 'Notre Dame', 'event': 'QB Accuracy Test', 'pos': 'QB', 'score': 25.0}
+{'time': '11/12/2022 11:14:05', 'email': 'pfontain@nd.edu', 'school': 'Notre Dame', 'event': 'QB Accuracy Test', 'pos': 'Wide Receiver', 'score': 57.1}
+{'time': '11/12/2022 11:14:57', 'email': 'bendeweerd2001@gmail.com', 'school': 'Calvin', 'event': 'Strength Test', 'pos': 'Defender', 'score': 318.5}
+{'time': '11/12/2022 11:19:38', 'email': 'kristina.labovic@valpo.edu', 'school': 'Valpo', 'event': 'QB Accuracy Test', 'pos': 'QB', 'score': 25.5}
+{'time': '11/12/2022 11:19:38', 'email': 'kristina.labovic@valpo.edu', 'school': 'Valpo', 'event': 'QB Accuracy Test', 'pos': 'Wide Receiver', 'score': 83.3}
+{'time': '11/12/2022 11:22:29', 'email': 'g-rak.1@onu.edu', 'school': 'ONU', 'event': 'Strength Test', 'pos': 'Defender', 'score': 286.75}
+{'time': '11/12/2022 11:22:58', 'email': 'g-rak.1@onu.edu', 'school': 'ONU', 'event': 'Strength Test', 'pos': 'Center', 'score': 25.0}
+{'time': '11/12/2022 11:25:15', 'email': 'g-rak.1@onu.edu', 'school': 'ONU', 'event': 'QB Accuracy Test', 'pos': 'QB', 'score': 2.0}
+{'time': '11/12/2022 11:25:15', 'email': 'g-rak.1@onu.edu', 'school': 'ONU', 'event': 'QB Accuracy Test', 'pos': 'Center', 'score': 100.0}
+{'time': '11/12/2022 11:31:35', 'email': 'pfontain@nd.edu', 'school': 'Notre Dame', 'event': 'Strength Test', 'pos': 'Center', 'score': 55.0}
+{'time': '11/12/2022 11:32:02', 'email': 'pfontain@nd.edu', 'school': 'Notre Dame', 'event': 'Strength Test', 'pos': 'Defender', 'score': 45.0}
+{'time': '11/12/2022 11:32:03', 'email': 'liam.thorp@valpo.edu', 'school': 'Valpo', 'event': 'QB Longest Throw', 'pos': 'QB', 'score': 20.08333}
+{'time': '11/12/2022 11:37:04', 'email': 'jgose@nd.edu', 'school': 'Notre Dame', 'event': 'Speed Test', 'pos': 'Wide Receiver', 'score': 4.43}
+{'time': '11/12/2022 11:45:22', 'email': 'kristina.labovic@valpo.edu', 'school': 'Valpo', 'event': 'Speed Test', 'pos': 'Running Back', 'score': 2.57}
+{'time': '11/12/2022 11:45:55', 'email': 'kristina.labovic@valpo.edu', 'school': 'Valpo', 'event': 'Speed Test', 'pos': 'Wide Receiver', 'score': 3.43}
+{'time': '11/12/2022 11:46:23', 'email': 'kristina.labovic@valpo.edu', 'school': 'Valpo', 'event': 'Speed Test', 'pos': 'Defender', 'score': 3.32}
+{'time': '11/12/2022 11:47:27', 'email': 'japierce22@my.trine.edu', 'school': 'Trine', 'event': 'Speed Test', 'pos': 'Running Back', 'score': 8.7}
+{'time': '11/12/2022 11:47:29', 'email': 'kristina.labovic@valpo.edu', 'school': 'Valpo', 'event': 'Longest Field Goal', 'pos': 'Kicker', 'score': 70.0}
+{'time': '11/12/2022 11:47:33', 'email': 'bendeweerd2001@gmail.com', 'school': 'Calvin', 'event': 'Speed Test', 'pos': 'Defender', 'score': 3.37}
+{'time': '11/12/2022 11:48:13', 'email': 'japierce22@my.trine.edu', 'school': 'Trine', 'event': 'Speed Test', 'pos': 'Defender', 'score': 0.0}
+{'time': '11/12/2022 11:48:19', 'email': 'bendeweerd2001@gmail.com', 'school': 'Calvin', 'event': 'Longest Field Goal', 'pos': 'Kicker', 'score': 71.5}
+{'time': '11/12/2022 11:48:52', 'email': 'g-rak.1@onu.edu', 'school': 'ONU', 'event': 'Speed Test', 'pos': 'Defender', 'score': 2.89}
+{'time': '11/12/2022 11:49:36', 'email': 'g-rak.1@onu.edu', 'school': 'ONU', 'event': 'Speed Test', 'pos': 'Running Back', 'score': 3.24}
+{'time': '11/12/2022 11:50:10', 'email': 'g-rak.1@onu.edu', 'school': 'ONU', 'event': 'Speed Test', 'pos': 'Wide Receiver', 'score': 2.91}
+{'time': '11/12/2022 11:51:43', 'email': 'g-rak.1@onu.edu', 'school': 'ONU', 'event': 'Longest Field Goal', 'pos': 'Kicker', 'score': 31.5}
+{'time': '11/12/2022 11:52:13', 'email': 'mschudt@nd.edu', 'school': 'Notre Dame', 'event': 'Longest Field Goal', 'pos': 'Kicker', 'score': 41.0}
+{'time': '11/12/2022 11:54:02', 'email': 'g-rak.1@onu.edu', 'school': 'ONU', 'event': 'QB Longest Throw', 'pos': 'QB', 'score': 13.25}
+{'time': '11/12/2022 12:04:13', 'email': 'ncibilic@nd.edu', 'school': 'Notre Dame', 'event': 'QB Longest Throw', 'pos': 'QB', 'score': 22.5}
+{'time': '11/12/2022 12:04:22', 'email': 'jbuettn2@nd.edu', 'school': 'Notre Dame', 'event': 'Speed Test', 'pos': 'Running Back', 'score': 2.38}
+{'time': '11/12/2022 12:04:28', 'email': 'zmikhail@nd.edu', 'school': 'Notre Dame', 'event': 'Speed Test', 'pos': 'Defender', 'score': 4.67}
+{'time': '11/12/2022 12:05:46', 'email': 'aa@aarondorrance.com', 'school': 'Notre Dame', 'event': 'QB Longest Throw', 'pos': 'QB', 'score': 22.0}
+
+Running Back {'Shuttle Run': {'Valpo': 11, 'Notre Dame': 9, 'ONU': 8, 'Trine': 7}, 'Three-Cone Drill': {'Valpo': 11, 'Notre Dame': 9, 'ONU': 8, 'Trine': 7}, 'Strength Test': {}, 'QB Accuracy Test': {}, 'Speed Test': {'Notre Dame': 11, 'Valpo': 9, 'ONU': 8, 'Trine': 7, 'Navy': 6}, 'Longest Field Goal': {}, 'QB Longest Throw': {}}
+
+Wide Receiver {'Shuttle Run': {'ONU': 11, 'Notre Dame': 9, 'Valpo': 8}, 'Three-Cone Drill': {'Valpo': 11, 'ONU': 9, 'Notre Dame': 8}, 'Strength Test': {}, 'QB Accuracy Test': {'Valpo': 11, 'Notre Dame': 9}, 'Speed Test': {'ONU': 11, 'Valpo': 9, 'Notre Dame': 8}, 'Longest Field Goal': {}, 'QB Longest Throw': {}}
+
+Defender {'Shuttle Run': {'Calvin': 11, 'Notre Dame': 9, 'Valpo': 8, 'Trine': 7, 'ONU': 6, 'Navy': 5}, 'Three-Cone Drill': {'Valpo': 11, 'ONU': 9, 'Notre Dame': 8, 'Calvin': 7, 'Trine': 6, 'Navy': 5}, 'Strength Test': {'Calvin': 11, 'ONU': 9, 'Trine': 8, 'Valpo': 7, 'Notre Dame': 6}, 'QB Accuracy Test': {}, 'Speed Test': {'Trine': 11, 'ONU': 9, 'Valpo': 8, 'Calvin': 7, 'Notre Dame': 6}, 'Longest Field Goal': {}, 'QB Longest Throw': {}}
+
+Center {'Shuttle Run': {}, 'Three-Cone Drill': {}, 'Strength Test': {'Valpo': 11, 'Navy': 9, 'Notre Dame': 8, 'ONU': 7}, 'QB Accuracy Test': {'ONU': 11}, 'Speed Test': {}, 'Longest Field Goal': {}, 'QB Longest Throw': {}}
+
+QB {'Shuttle Run': {}, 'Three-Cone Drill': {}, 'Strength Test': {}, 'QB Accuracy Test': {'Valpo': 11, 'Notre Dame': 9, 'Navy': 8, 'ONU': 7}, 'Speed Test': {}, 'Longest Field Goal': {}, 'QB Longest Throw': {'Navy': 11, 'Notre Dame': 8, 'Valpo': 7, 'ONU': 6}}
+
+Kicker {'Shuttle Run': {}, 'Three-Cone Drill': {}, 'Strength Test': {}, 'QB Accuracy Test': {}, 'Speed Test': {}, 'Longest Field Goal': {'Calvin': 11, 'Valpo': 9, 'Notre Dame': 8, 'ONU': 7, 'Navy': 6}, 'QB Longest Throw': {}}
+
+{  Running Back :  {'Valpo': 31, 'Notre Dame': 29, 'ONU': 24, 'Trine': 21, 'Navy': 6}  }
+{  Wide Receiver :  {'ONU': 31, 'Notre Dame': 34, 'Valpo': 39}  }
+{  Defender :  {'Calvin': 36, 'Notre Dame': 29, 'Valpo': 34, 'Trine': 32, 'ONU': 33, 'Navy': 10}  }
+{  Center :  {'Valpo': 11, 'Navy': 9, 'Notre Dame': 8, 'ONU': 18}  }
+{  QB :  {'Valpo': 18, 'Notre Dame': 17, 'Navy': 19, 'ONU': 13}  }
+{  Kicker :  {'Calvin': 11, 'Valpo': 9, 'Notre Dame': 8, 'ONU': 7, 'Navy': 6}  }
+
+{  Running Back :  {'Valpo': 11, 'Notre Dame': 9, 'ONU': 8, 'Trine': 7, 'Navy': 6}  }
+{  Wide Receiver :  {'Valpo': 11, 'Notre Dame': 9, 'ONU': 8}  }
+{  Defender :  {'Calvin': 11, 'Valpo': 9, 'ONU': 8, 'Trine': 7, 'Notre Dame': 6, 'Navy': 5}  }
+{  Center :  {'ONU': 11, 'Valpo': 9, 'Navy': 8, 'Notre Dame': 7}  }
+{  QB :  {'Navy': 11, 'Valpo': 9, 'Notre Dame': 8, 'ONU': 7}  }
+{  Kicker :  {'Calvin': 11, 'Valpo': 9, 'Notre Dame': 8, 'ONU': 7, 'Navy': 6}  }
+
+{'Valpo': 58, 'Notre Dame': 47, 'ONU': 49, 'Trine': 14, 'Navy': 36, 'Calvin': 22}
