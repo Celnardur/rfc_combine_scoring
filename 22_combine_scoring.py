@@ -137,7 +137,7 @@ def get_rankings(entries):
                 rev = True
             filtered = filter(lambda e: e['pos'] == pos and e['event'] == event, entries)
             ranked = sorted(filtered, key=lambda e: e['score'], reverse=rev)
-            pos_rankings[event] = get_schools(ranked)
+            pos_rankings[event] = get_school_scores(ranked)
         print(pos, pos_rankings)
         print()
         rankings[pos] = pos_rankings
@@ -149,16 +149,21 @@ def get_scores(rankings):
     for pos, event_rankings in rankings.items():
         scores = {}
         for event, schools in event_rankings.items():
-            for i in range(len(schools)):
-                add_to_value(scores, schools[i], num_of_schools - i)
-            if len(schools) > 0:
-                add_to_value(scores, schools[0], 1)
+            for school, event_score in schools.items():
+                add_to_value(scores, school, event_score)
         positional_scores[pos] = scores
         print('{ ', pos, ': ', scores, ' }')
     print()
 
+    positional_ranking = {}
+    for pos, score in positional_scores.items():
+        positional_ranking[pos] = rank_scores(score)
+        print('{ ', pos, ': ', positional_ranking[pos], ' }')
+    print()
+
+
     overall_scores = {}
-    for pos, pos_scores in positional_scores.items():
+    for pos, pos_scores in positional_ranking.items():
         for school, score in pos_scores.items():
             add_to_value(overall_scores, school, score)
     print(overall_scores)
@@ -203,11 +208,34 @@ def min_num(n1, n2, n3):
     else:
         return math.inf
 
-def get_schools(entries):
-    schools = []
-    for entry in entries:
-        schools.append(entry['school'])
+def get_school_scores(entries):
+    schools = {}
+    rank = 0
+    for index in range(len(entries)):
+        schools[entries[index]['school']] = num_of_schools - rank
+        if rank == 0:
+            schools[entries[index]['school']] += 1
+        if index + 1 < len(entries) and entries[index]['score'] != entries[index+1]['score']:
+            rank = index + 1
+
     return schools
+
+def rank_scores(scores):
+    ranked_schools = sorted(scores.items(), key=lambda e: e[1], reverse=True)
+    ranked_scores = {}
+    rank =  0
+    for index in range(len(ranked_schools)):
+        ranked_scores[ranked_schools[index][0]] = num_of_schools - rank
+        if rank == 0:
+            ranked_scores[ranked_schools[index][0]] += 1
+        if index + 1 < len(ranked_schools) and ranked_schools[index][1] != ranked_schools[index + 1][1]:
+            rank = index +1
+
+    return ranked_scores
+
+
+
+
 
 def add_to_value(d, key, amt):
     if not key in d:
